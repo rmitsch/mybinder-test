@@ -1,0 +1,11 @@
+name: skope-confare
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter=1.0.0=py37_7
+  - pandas=0.24.1=py37he6710b0_0
+  - pip:
+    - qgrid==1.1.1
+prefix: /home/raphael/anaconda3/envs/skope-confare
+
