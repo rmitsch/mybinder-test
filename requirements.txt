@@ -1,4 +1,5 @@
 pandas
 qgrid
-jupyter
+jupyterlab
 bson
+ipywidgets
